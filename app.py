@@ -1,8 +1,6 @@
 import pandas as pd
 import random
 
-#file_path = r"C:\Users\Startklar\Documents\GitHub\DeutscheApp\wortschatz.csv"
-
 # File paths for different levels
 file_path_beginner = r"C:\Users\Startklar\Documents\GitHub\DeutscheApp\wortschatz_Beginner.csv"
 file_path_intermediate = r"C:\Users\Startklar\Documents\GitHub\DeutscheApp\wortschatz _Intermediate.csv"
