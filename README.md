@@ -28,6 +28,9 @@ There are several rules you can memorize to determine which article to use, but 
 
 Basically to identify the correct pronoun, you generally need to look at the suffix of the word. However, there are some general rules—and, of course, exceptions—that often contradict each other! 🤯
 
+The flexibility of the German language lies in its ability to combine nouns. It’s common to encounter long words that are simply combinations of smaller ones. To determine the correct article in these cases, you only need to look at the last word of the compound noun. For example:
+Haus (das) + Tür (die) = die Haustür
+
 Regardless, here’s a list of some rules from [passion4teq](https://www.passion4teq.com/articles/der-die-das-gender-article-rules/) I found helpful, I strong recommend you to check it.
 
 ## Some Thoughts (German Tips)
