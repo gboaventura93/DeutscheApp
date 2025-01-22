@@ -1,11 +1,12 @@
 import pandas as pd
 import random
 
-file_path = r"C:\Users\Startklar\Desktop\Deutschkurs\wortschatz.csv"
+file_path = r"C:\Users\Startklar\Documents\GitHub\DeutscheApp\wortschatz.csv"
 
 
-vocabulary_df = pd.read_csv(file_path, encoding='latin1', sep=",")
-    
+vocabulary_df = pd.read_csv(file_path, encoding='iso-8859-1', sep=",")
+
+vocabulary_df.replace({"Ã¼": "ü", "Ã¤": "ä", "Ã¶": "ö", "ÃŸ": "ß"}, regex=True, inplace=True)
 vocabulary_df.columns = vocabulary_df.columns.str.strip()
 
 
