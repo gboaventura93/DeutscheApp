@@ -5,7 +5,7 @@ import random
 
 # File paths for different levels
 file_path_beginner = r"C:\Users\Startklar\Documents\GitHub\DeutscheApp\wortschatz_Beginner.csv"
-file_path_intermediate = r"C:\Users\Startklar\Documents\GitHub\DeutscheApp\wortschatz_Intermediate.csv"
+file_path_intermediate = r"C:\Users\Startklar\Documents\GitHub\DeutscheApp\wortschatz _Intermediate.csv"
 file_path_advanced = r"C:\Users\Startklar\Documents\GitHub\DeutscheApp\wortschatz_Advanced.csv"
 
 # Function to load the vocabulary file based on level
